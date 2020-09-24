@@ -13,7 +13,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=Edit-Time-Data href="abc_files/editdata.mso">
 <link rel=OLE-Object-Data href="abc_files/oledata.mso">
 <!--[if !mso]>
-<style>
+f>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
@@ -1045,17 +1045,7 @@ table.MsoTableGrid
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <a href="https://raw.githubusercontent.com/David-Trezeguet/emi/gh-pages/abc_files/loading.mp4"><img width=102 height=66
   src="abc_files/image004.png" v:shapes="_x0000_i1032"></a>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><!--[if gte vml 1]><v:shape
-   id="_x0000_i1032" type="#_x0000_t75" style='width:76.2pt;height:49.2pt'
-   o:ole="">
-   <v:imagedata src="abc_files/image003.emz" o:title=""/>
-  </v:shape><![endif]--><!--[if gte mso 9]><xml>
-   <o:OLEObject Type="Embed" ProgID="Package" ShapeID="_x0000_i1032"
-    DrawAspect="Icon" ObjectID="_1662455115">
-   </o:OLEObject>
-  </xml><![endif]-->
 
-    </p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
@@ -1226,7 +1216,8 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+  style='mso-no-proof:yes'><o:p><img width=256 height=240
+  src="abc_files/image027.png" v:shapes="Picture_x0020_8"></o:p></span></p>
   </td>
   <td width=401 valign=top style='width:300.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1240,7 +1231,8 @@ table.MsoTableGrid
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='mso-no-proof:yes'><o:p>&nbsp;</o:p></span></p>
+  style='mso-no-proof:yes'><o:p><img width=256 height=240
+  src="abc_files/image027.png" v:shapes="Picture_x0020_8"></o:p></span></p>
   </td>
   <td width=401 valign=top style='width:300.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
