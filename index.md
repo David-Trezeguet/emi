@@ -1232,7 +1232,7 @@ table.MsoTableGrid
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
   style='mso-no-proof:yes'><o:p><img width=256 height=240
-  src="abc_files/image027.png" v:shapes="Picture_x0020_8"></o:p></span></p>
+  src="abc_files/image028.png" v:shapes="Picture_x0020_8"></o:p></span></p>
   </td>
   <td width=401 valign=top style='width:300.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
