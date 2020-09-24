@@ -1142,7 +1142,7 @@ table.MsoTableGrid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'>- Búa thua
-  Bao (xòe bàn tay ra): NC thua 1 l&#7847;n m&#7845;t 1 m&#7841;ng</p>
+  Bao (xòe bàn tay ra): NC thua 1 l&#7847;n m&#7845;t 1 m&#7841;ng (nhưng ẻm giữa nguyên không thay đổi)</p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
