@@ -12,9 +12,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=File-List href="abc_files/filelist.xml">
 <link rel=Edit-Time-Data href="abc_files/editdata.mso">
 <link rel=OLE-Object-Data href="abc_files/oledata.mso">
-<style>
-  img {margin: 5px;}
-</style>
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -1046,16 +1043,13 @@ table.MsoTableGrid
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
-      <video width="400" controls>
-        <source src="/abc_files/loading.mp4" type="video/mp4">
-        Your browser does not support HTML video.
-      </video>
+  <a href="https://raw.githubusercontent.com/David-Trezeguet/emi/gh-pages/abc_files/loading.mp4"><img width=102 height=66
+  src="abc_files/image004.png" v:shapes="_x0000_i1032"></a>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><!--[if gte vml 1]><v:shape
    id="_x0000_i1032" type="#_x0000_t75" style='width:76.2pt;height:49.2pt'
    o:ole="">
    <v:imagedata src="abc_files/image003.emz" o:title=""/>
-  </v:shape><![endif]--><![if !vml]><img width=102 height=66
-  src="abc_files/image004.png" v:shapes="_x0000_i1032"><![endif]><!--[if gte mso 9]><xml>
+  </v:shape><![endif]--><!--[if gte mso 9]><xml>
    <o:OLEObject Type="Embed" ProgID="Package" ShapeID="_x0000_i1032"
     DrawAspect="Icon" ObjectID="_1662455115">
    </o:OLEObject>
@@ -1080,8 +1074,8 @@ table.MsoTableGrid
    id="_x0000_i1036" type="#_x0000_t75" style='width:76.2pt;height:49.2pt'
    o:ole="">
    <v:imagedata src="abc_files/image005.emz" o:title=""/>
-  </v:shape><![endif]--><![if !vml]><img width=102 height=66
-  src="abc_files/image006.png" v:shapes="_x0000_i1036"><![endif]><!--[if gte mso 9]><xml>
+  </v:shape><![endif]--><![if !vml]><a href="https://raw.githubusercontent.com/David-Trezeguet/emi/gh-pages/abc_files/gameplay.mp4"><img width=102 height=66
+  src="abc_files/image006.png" v:shapes="_x0000_i1036"></a><![endif]><!--[if gte mso 9]><xml>
    <o:OLEObject Type="Embed" ProgID="Package" ShapeID="_x0000_i1036"
     DrawAspect="Icon" ObjectID="_1662455117">
    </o:OLEObject>
